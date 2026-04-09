@@ -4,7 +4,7 @@ import { ChevronDown, Flame, Award, BookOpen, Users } from "lucide-react";
 import logo from "@/assets/logo.png";
 import { conference } from "@/lib/conference";
 
-const HERO_BG = "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?auto=format&fit=crop&w=3840&q=95";
+const HERO_BG = "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=1600";
 
 const CountdownTimer = () => {
   const [time, setTime] = useState({ hours: 0, minutes: 0, seconds: 0 });
