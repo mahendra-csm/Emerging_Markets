@@ -26,7 +26,7 @@ const CallForPapersSection = () => {
         >
           <h2 className="text-3xl md:text-5xl font-bold text-[#1a365d]">Call for Abstracts</h2>
           <p className="mt-4 text-gray-500 max-w-3xl mx-auto">
-            IC-EMIE 2026 invites interdisciplinary abstract submissions on emerging markets evolution, innovation ecosystems, enterprise strategy, inclusive growth, and future-ready policy frameworks.
+            IC-FIN 2026 invites interdisciplinary abstract submissions on fintech innovation, digital payments, financial inclusion, enterprise finance transformation, and future-ready regulatory frameworks.
           </p>
         </motion.div>
 

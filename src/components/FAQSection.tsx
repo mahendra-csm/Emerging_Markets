@@ -33,7 +33,7 @@ const faqs = [
   },
   {
     q: "What topics are accepted for abstract submission?",
-    a: "Abstracts are invited on emerging markets, innovation ecosystems, enterprise transformation, growth strategy, inclusive business models, digital adoption, governance, regulation, and related interdisciplinary themes.",
+    a: "Abstracts are invited on fintech innovation, digital payments, financial inclusion, enterprise finance transformation, blockchain, regulation, governance, and related interdisciplinary themes.",
   },
 ];
 

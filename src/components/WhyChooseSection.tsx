@@ -42,7 +42,7 @@ const WhyChooseSection = () => {
             <div className="grid grid-cols-[1fr_80px_80px] text-center text-[10px] uppercase tracking-wider font-bold border-b border-gray-100">
               <div className="p-3 text-left text-gray-400 pl-5">Feature</div>
               <div className="p-3 text-gray-300">Others</div>
-              <div className="p-3 text-[#1A56DB] bg-blue-50/50">IC-EMIE</div>
+              <div className="p-3 text-[#1A56DB] bg-blue-50/50">IC-FIN</div>
             </div>
 
             {features.map((feature, index) => (
@@ -109,7 +109,7 @@ const WhyChooseSection = () => {
                 href="#registration"
                 className="inline-flex items-center gap-2 px-6 py-3 rounded-xl bg-[#1A56DB] text-white font-semibold text-sm hover:bg-[#1648B5] transition-all shadow-lg"
               >
-                Join IC-EMIE 2026
+                Join IC-FIN 2026
               </a>
             </motion.div>
           </div>

@@ -5,8 +5,8 @@ import { Cpu, Building2, Monitor, ChevronRight, Landmark, ShieldCheck, Wallet, N
 const tracks = [
   {
     icon: Building2,
-    title: "Emerging Markets Strategy & Growth Policy",
-    desc: "Market expansion, regional competitiveness, public policy, and sustainable growth models.",
+    title: "FinTech Strategy & Digital Payments Policy",
+    desc: "Digital payment platforms, embedded finance, inclusive financial access, and regulatory strategy.",
     color: "#1A56DB",
     gradient: "from-blue-600 to-indigo-600",
   },
@@ -54,8 +54,8 @@ const tracks = [
   },
   {
     icon: LineChart,
-    title: "Supply Chains, Trade & Market Infrastructure",
-    desc: "Value chains, trade ecosystems, logistics, and infrastructure for emerging market growth.",
+    title: "Payments Infrastructure & Market Connectivity",
+    desc: "Cross-border rails, transaction ecosystems, logistics, and infrastructure for digital finance growth.",
     color: "#059669",
     gradient: "from-emerald-500 to-green-600",
   },
@@ -93,7 +93,7 @@ const ThemesSection = () => {
             Key Themes & <span className="text-gradient-blue">Research Tracks</span>
           </h2>
           <p className="text-gray-500 text-base max-w-2xl mx-auto">
-            Explore the ideas shaping emerging markets, enterprise innovation, growth strategy, and future-fit market models.
+            Explore the ideas shaping fintech innovation, digital payments, financial services design, and future-fit finance ecosystems.
           </p>
         </motion.div>
 

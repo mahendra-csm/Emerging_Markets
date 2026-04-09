@@ -97,7 +97,7 @@ const AboutSection = () => {
             About <span className="text-gradient-blue">{conference.shortName}</span>
           </h2>
           <p className="text-gray-500 text-base max-w-2xl mx-auto">
-            Where emerging markets, innovation, and enterprise strategy converge for global impact
+            Where FinTech, digital payments, and finance innovation converge for global impact
           </p>
         </motion.div>
 
@@ -120,9 +120,9 @@ const AboutSection = () => {
 
             <p className="text-gray-600 text-[15px] leading-relaxed mb-5">
               {conference.shortName} explores the fast-moving intersection of the{" "}
-              <span className="text-[#1A56DB] font-semibold">emerging markets</span>,{" "}
-              <span className="text-[#059669] font-semibold">innovation ecosystems</span>, and{" "}
-              <span className="text-[#D97706] font-semibold">enterprise transformation</span> from market strategy and business model design to inclusive growth, digital adoption, and sustainable competitiveness.
+              <span className="text-[#1A56DB] font-semibold">digital finance</span>,{" "}
+              <span className="text-[#059669] font-semibold">payments innovation</span>, and{" "}
+              <span className="text-[#D97706] font-semibold">financial transformation</span> from fintech strategy and value creation to inclusive access, digital adoption, and sustainable financial services.
             </p>
             <p className="text-gray-600 text-[15px] leading-relaxed mb-6">
               The event brings together researchers, economists, fintech builders, banking professionals, policy leaders, entrepreneurs, and students in a dynamic online format featuring presentations, panel discussions, and live Q&A sessions.

@@ -42,11 +42,11 @@ const AbstractSection = () => {
           </motion.div>
 
           <h2 className="text-3xl sm:text-4xl md:text-5xl lg:text-6xl font-extrabold mb-5 text-white leading-tight">
-            Why Your <span className="text-transparent bg-clip-text bg-gradient-to-r from-amber-400 via-yellow-300 to-amber-400">IC-EMIE 2026</span> Abstract Matters
+            Why Your <span className="text-transparent bg-clip-text bg-gradient-to-r from-amber-400 via-yellow-300 to-amber-400">IC-FIN 2026</span> Abstract Matters
           </h2>
 
           <p className="text-blue-100/80 text-base md:text-lg max-w-2xl mx-auto leading-relaxed mb-6">
-            Share your research on <strong className="text-white">emerging market dynamics</strong>, <strong className="text-white">innovation-led enterprise growth</strong>, <strong className="text-white">startup ecosystems</strong>, and <strong className="text-white">inclusive business strategy</strong>. One abstract submission gives you a <strong className="text-white">permanent DOI</strong>, indexing in <strong className="text-white">10+ directories</strong>, and an <strong className="text-white">accredited certificate</strong> all at once.
+            Share your research on <strong className="text-white">FinTech innovation</strong>, <strong className="text-white">digital payment systems</strong>, <strong className="text-white">financial inclusion</strong>, and <strong className="text-white">enterprise finance transformation</strong>. One abstract submission gives you a <strong className="text-white">permanent DOI</strong>, indexing in <strong className="text-white">10+ directories</strong>, and an <strong className="text-white">accredited certificate</strong> all at once.
           </p>
 
           {/* WORLDWIDE banner */}
@@ -62,7 +62,7 @@ const AbstractSection = () => {
                 <div className="text-left">
                   <p className="text-amber-300 text-[10px] sm:text-xs font-bold tracking-widest uppercase">Worldwide Exclusive</p>
                   <p className="text-white text-sm sm:text-base md:text-lg font-extrabold leading-tight">
-                    Take Your Emerging Markets and Innovation Research <span className="text-amber-300">Global</span>
+                    Take Your FinTech and Digital Payments Research <span className="text-amber-300">Global</span>
                   </p>
                 </div>
                 <span className="text-2xl sm:text-3xl">🏆</span>

@@ -5,56 +5,56 @@ import { GraduationCap, Landmark, Briefcase, Wallet, Cpu } from "lucide-react";
 const participants = [
   {
     icon: GraduationCap,
-    title: "Researchers & Academics",
+    title: "Global FinTech Leaders & Innovators",
     headline: "Publish the Future of Enterprise",
-    desc: "Share rigorous research on emerging markets, innovation strategy, enterprise performance, and policy for inclusive growth.",
+    desc: "Share rigorous research on fintech innovation, digital payments, embedded finance, and policy for inclusive financial systems.",
     color: "#1A56DB",
     gradient: "from-blue-600 to-blue-500",
-    image: "https://images.unsplash.com/photo-1496317899792-9d7dbcd928a1?auto=format&fit=crop&w=800&q=90",
+    image: "https://images.unsplash.com/photo-1517245386807-bb43f82c33c4?auto=format&fit=crop&w=800&q=90",
     href: "#abstract",
     linkText: "Explore abstract themes",
   },
   {
     icon: Wallet,
-    title: "Fintech Founders & Product Teams",
+    title: "Digital Payments & Banking Experts",
     headline: "Build the Next Market Wave",
     desc: "Highlight innovation in payments, enterprise platforms, digital commerce, and inclusive market access for startups and scaleups.",
     color: "#0891B2",
     gradient: "from-cyan-600 to-teal-500",
-    image: "https://images.unsplash.com/photo-1519389950473-47ba0277781c?auto=format&fit=crop&w=800&q=90",
+    image: "https://images.unsplash.com/photo-1512499617640-c2f999018b72?auto=format&fit=crop&w=800&q=90",
     href: "#themes",
     linkText: "See innovation tracks",
   },
   {
     icon: Cpu,
-    title: "Blockchain Developers & Innovators",
+    title: "Financial Technology Researchers & Academics",
     headline: "Engineer Resilient Systems",
     desc: "Discuss secure digital infrastructure, tokenization, interoperability, and trust layers for modern enterprise ecosystems.",
     color: "#059669",
     gradient: "from-emerald-600 to-green-500",
-    image: "https://images.unsplash.com/photo-1518779578993-ec3579fee39f?auto=format&fit=crop&w=800&q=90",
+    image: "https://images.unsplash.com/photo-1529070538774-1843cb3265df?auto=format&fit=crop&w=800&q=90",
     href: "#themes",
     linkText: "Discover developer topics",
   },
   {
     icon: Landmark,
-    title: "Policy Makers & Regulators",
+    title: "Regulators & Financial Policy Makers",
     headline: "Shape Responsible Markets",
-    desc: "Collaborate on governance, regulation, compliance, and inclusive policy frameworks that support emerging markets and enterprise growth.",
+    desc: "Collaborate on fintech governance, digital payment regulation, compliance, and inclusive finance frameworks for global markets.",
     color: "#7C3AED",
     gradient: "from-violet-600 to-purple-500",
-    image: "https://images.unsplash.com/photo-1542744173-8e7e53415bb0?auto=format&fit=crop&w=800&q=90",
+    image: "https://images.unsplash.com/photo-1522199755839-a2bacb67c546?auto=format&fit=crop&w=800&q=90",
     href: "#about",
     linkText: "Review conference goals",
   },
   {
     icon: Briefcase,
-    title: "Students & Early Careers",
+    title: "Future Finance Professionals & Students",
     headline: "Launch a Future-Ready Career",
-    desc: "Access mentorship, networking, and practical insights into emerging markets, innovation leadership, and enterprise strategy.",
+    desc: "Access mentorship, networking, and practical insights into fintech leadership, payments strategy, and digital finance innovation.",
     color: "#D97706",
     gradient: "from-amber-600 to-orange-500",
-    image: "https://images.unsplash.com/photo-1521791136064-7986c2920216?auto=format&fit=crop&w=800&q=90",
+    image: "https://images.unsplash.com/photo-1532012197267-da84d127e765?auto=format&fit=crop&w=800&q=90",
     href: "#registration",
     linkText: "Start your journey",
   },
@@ -77,7 +77,7 @@ const ParticipantsSection = () => {
             This Conference Is <span className="text-gradient-blue">Built For You</span>
           </h2>
           <p className="text-gray-500 text-base max-w-2xl mx-auto">
-            Whether you research emerging markets, develop innovation-led businesses, or steer enterprise strategy, there is a seat at this table for you.
+            Whether you research fintech, lead digital payments initiatives, or design future-ready financial products, there is a seat at this table for you.
           </p>
         </motion.div>
 

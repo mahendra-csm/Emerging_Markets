@@ -4,7 +4,7 @@ import { ChevronDown, Flame, Award, BookOpen, Users } from "lucide-react";
 import logo from "@/assets/logo.png";
 import { conference } from "@/lib/conference";
 
-const HERO_BG = "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?auto=format&fit=crop&w=3840&q=95";
+const HERO_BG = "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?w=1600";
 
 const CountdownTimer = () => {
   const [time, setTime] = useState({ hours: 0, minutes: 0, seconds: 0 });
@@ -87,7 +87,7 @@ const HeroSection = () => {
           className="inline-flex items-center gap-2 mb-6 px-4 py-2 rounded-full border border-white/15 bg-white/5 backdrop-blur-sm"
         >
           <span className="text-[11px] md:text-xs font-medium tracking-wide text-white/80">
-            ONLINE INTERNATIONAL CONFERENCE | EMERGING MARKETS | INNOVATION | ENTERPRISE
+            ONLINE INTERNATIONAL CONFERENCE | FINTECH | DIGITAL PAYMENTS | FINANCE INNOVATION
           </span>
         </motion.div>
 
@@ -102,11 +102,11 @@ const HeroSection = () => {
           </span>
           <br />
           <span className="text-transparent bg-clip-text bg-gradient-to-r from-sky-300 via-blue-400 to-cyan-300">
-            Emerging Markets, Innovation and Enterprise
+            FinTech, Digital Payments & Finance Innovation
           </span>
           <br />
           <span className="text-white/90 text-lg sm:text-xl md:text-3xl lg:text-4xl font-semibold">
-            13th & 14th May 2026
+            3rd & 4th June 2026
           </span>
         </motion.h1>
 
@@ -116,10 +116,10 @@ const HeroSection = () => {
           transition={{ duration: 0.6, delay: 0.2 }}
           className="text-white/80 text-sm md:text-base max-w-2xl mx-auto mb-5 leading-relaxed"
         >
-          Present breakthrough work in <span className="text-white font-semibold">emerging markets</span>,{" "}
-          <span className="text-white font-semibold">innovation ecosystems</span>,{" "}
-          <span className="text-white font-semibold">enterprise strategy</span>, and{" "}
-          <span className="text-white font-semibold">market transformation</span> while earning a{" "}
+          Present breakthrough work in <span className="text-white font-semibold">FinTech</span>,{" "}
+          <span className="text-white font-semibold">digital payments</span>,{" "}
+          <span className="text-white font-semibold">financial innovation</span>, and{" "}
+          <span className="text-white font-semibold">future-ready finance models</span> while earning a{" "}
           <span className="text-white font-semibold">Crossref DOI</span>,{" "}
           <span className="text-white font-semibold">CPD accreditation</span>, and visibility across{" "}
           <span className="text-white font-semibold">10+ global directories</span>.
