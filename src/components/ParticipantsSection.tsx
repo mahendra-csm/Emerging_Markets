@@ -5,11 +5,7 @@ import { GraduationCap, Landmark, Briefcase, Wallet, Cpu } from "lucide-react";
 const participants = [
   {
     icon: GraduationCap,
-<<<<<<< HEAD
-    title: "Global FinTech Leaders & Innovators",
-=======
     title: "Emerging Markets Researchers & Academics",
->>>>>>> 5daf097817bf54c087b011e401ef0982f7ed56fe
     headline: "Publish the Future of Enterprise",
     desc: "Share rigorous research on fintech innovation, digital payments, embedded finance, and policy for inclusive financial systems.",
     color: "#1A56DB",
@@ -20,11 +16,7 @@ const participants = [
   },
   {
     icon: Wallet,
-<<<<<<< HEAD
-    title: "Digital Payments & Banking Experts",
-=======
     title: "Innovation Leaders & Product Teams",
->>>>>>> 5daf097817bf54c087b011e401ef0982f7ed56fe
     headline: "Build the Next Market Wave",
     desc: "Highlight innovation in payments, enterprise platforms, digital commerce, and inclusive market access for startups and scaleups.",
     color: "#0891B2",
@@ -35,11 +27,7 @@ const participants = [
   },
   {
     icon: Cpu,
-<<<<<<< HEAD
-    title: "Financial Technology Researchers & Academics",
-=======
     title: "Enterprise Technology & Innovation Experts",
->>>>>>> 5daf097817bf54c087b011e401ef0982f7ed56fe
     headline: "Engineer Resilient Systems",
     desc: "Discuss secure digital infrastructure, tokenization, interoperability, and trust layers for modern enterprise ecosystems.",
     color: "#059669",
@@ -50,11 +38,7 @@ const participants = [
   },
   {
     icon: Landmark,
-<<<<<<< HEAD
-    title: "Regulators & Financial Policy Makers",
-=======
     title: "Policy Makers & Market Regulators",
->>>>>>> 5daf097817bf54c087b011e401ef0982f7ed56fe
     headline: "Shape Responsible Markets",
     desc: "Collaborate on fintech governance, digital payment regulation, compliance, and inclusive finance frameworks for global markets.",
     color: "#7C3AED",
@@ -65,11 +49,7 @@ const participants = [
   },
   {
     icon: Briefcase,
-<<<<<<< HEAD
-    title: "Future Finance Professionals & Students",
-=======
     title: "Students & Future Enterprise Leaders",
->>>>>>> 5daf097817bf54c087b011e401ef0982f7ed56fe
     headline: "Launch a Future-Ready Career",
     desc: "Access mentorship, networking, and practical insights into fintech leadership, payments strategy, and digital finance innovation.",
     color: "#D97706",
